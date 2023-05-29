@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+
+
+body{
+    
+    background-image: url("background.jpg");
+    background-size: cover;
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#sfondo{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 65%;
+    height: 900px;
+    border-radius: 15px;
+}
+
+ header {
+    text-align: center;
+    color: lime;
+ }
+
+ #logo{
+    margin-top: 90px;
+    width: 280px;
+    height: 120px;
+}
+
+nav{
+    margin-top:10px;
+    background-color: lime;
+    width: 80%;
+    height: 40px;
+    padding-top: 10px;
+}
+
+/* Lista monopattini */
+
+main{
+    color:whitesmoke;
+    line-height: 30px;
+    width: 80%;
+}
+
+.monopattino h2{
+    margin-top: 30px;
+    display: inline-block;
+}
+
+
+/* carica monopattini */
+
+.carica{
+    border-radius: 7px;
+    height: 30px;
+    margin-left: 0%;
+}
+
+.uno{
+    background-color: orange;
+    width: 300px;
+}
+
+.due{
+    background-color:rgb(2, 192, 2);
+    width: 500px;
+}
+
+.tre{
+    background-color: red;
+    width: 150px;
+}
+
+
+
+
+
